@@ -41,7 +41,7 @@ Polymorphism allows objects of different classes to be treated as instances of t
 - **C#**
 - **Ruby**
 
-OOP is widely used in modern software development because it mirrors how people think about the real world, leading to solutions that are intuitive, maintainable, and scalable.
+##Example in java:
 ```java
 // Object-Oriented Programming (OOP) Example in Java
 
@@ -121,4 +121,3 @@ public class Main {
         myCat.sound();  // Output: Cat says: Meow!
     }
 }
-```java
